@@ -8,7 +8,7 @@ const CONFIG = {
     // - Discord: https://discord.com/api/webhooks/your-webhook
     // - Zapier: https://hooks.zapier.com/hooks/catch/your-hook
     // - Make.com: https://hook.us1.make.com/your-hook
-    webhookUrl: 'https://webhook.site/063e9b97-ded3-4077-99ca-fd2bec1f7113',
+    webhookUrl: 'https://primary-production-7ebad.up.railway.app/webhook-test/a52ea4b2-252b-422e-8382-16584169b3a5',
 
     // Validation rules
     validation: {
