@@ -2,7 +2,7 @@
 // This file is in .gitignore and won't be pushed to the repository
 
 // Your webhook URL (keep this private!)
-const LOCAL_WEBHOOK_URL = 'https://webhook.site/b06044e5-3873-47b1-8f6e-cb56d4bb5d49';
+const LOCAL_WEBHOOK_URL = 'https://webhook.site/008de394-c219-4b43-890f-cf6e8f29be34';
 
 // Instructions:
 // 1. When testing locally, update script.js line 8 with the above URL
