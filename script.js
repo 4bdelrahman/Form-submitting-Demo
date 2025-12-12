@@ -8,9 +8,9 @@ const CONFIG = {
     // - Discord: https://discord.com/api/webhooks/your-webhook
     // - Zapier: https://hooks.zapier.com/hooks/catch/your-hook
     // - Make.com: https://hook.us1.make.com/your-hook
-    // For testing, use webhook.site (has CORS support)
-    // Replace with your actual backend URL when ready
-    webhookUrl: 'https://webhook.site/063e9b97-ded3-4077-99ca-fd2bec1f7113',
+    // Using Formspree - handles CORS properly for static sites
+    // Send to our local server proxy (avoids CORS)
+    webhookUrl: '/api/submit', // Free tier available
 
     // Validation rules
     validation: {
